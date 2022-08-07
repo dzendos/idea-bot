@@ -1,0 +1,11 @@
+{
+    "db":{
+        "dbname": "holostyak",
+        "user":"postgres",
+        "password":"ok",
+        "host":"localhost"
+    },
+    "bot":{
+        "token": "5130444271:AAHOgQcMtrNuUErTaszIwcyFj-VzEsNpgiQ"
+    }
+}
